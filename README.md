@@ -38,14 +38,13 @@ https://freemail-providers.s1mplexx.eu/api/all
 
 Response (200, Content-Type: application/json)
 ```
-{
-  "domains": [
-    ...
-    "gmail.com",
-    "yahoo.com",
-    ...
-  ]
-}
+[
+  ...
+  "aol.com",
+  ...
+  "gmail.com",
+  ...
+]
 ```
 
 #### Query provider by email address or domain
