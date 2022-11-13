@@ -2,7 +2,7 @@
 
 This repository provides a list of common email providers in csv format.
 
-## CSV file
+## JSON file
 Check [provider-domains.json](provider-domains.json).
 
 This list is useful when you want check if your user's email address is a
