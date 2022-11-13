@@ -1,4 +1,4 @@
-# List of Freemail Providers
+# List of common E-Mail Providers
 
 This repository provides a list of common email providers in json format.
 
