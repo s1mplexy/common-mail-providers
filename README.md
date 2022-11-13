@@ -57,10 +57,10 @@ https://freemail-providers.s1mplexx.eu/api/<email or domain>
 Response
 
  - 200 - when email or domain is in the provider list
- ``` {"domains":"gmail.com","status":"found"} ```
+ ``` {"domain":"gmail.com","status":"found"} ```
  - 404 - when email or domain is not in the provider list
- ```{"domains":"google.com","status":"notinlist"}```
- ```{"domains":"","status":"error-empty-request"}```
+ ```{"domain":"google.com","status":"notinlist"}```
+ ```{"domain":"","status":"error-empty-request"}```
 
 
 Example request
