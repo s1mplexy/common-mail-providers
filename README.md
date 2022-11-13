@@ -19,7 +19,7 @@ Check [provider-domains.json](provider-domains.json).
 This list is useful if you want to check whether your user's email address is a personal email address or not.
 Companies usually use their own domain for their employees' communication.
 
-Please create a request for "providers.txt", this list will then automatically be updated.
+Please create a pull request for "providers.txt", this list will then automatically be updated.
 
 
 ## Rest API
