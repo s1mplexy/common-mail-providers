@@ -7,13 +7,19 @@ Requirmnets to be on this list:
 - Anyone can register for the domain either for free or paid
 - It is **not** a throwaway email domain
 
+## TXT file
+Txt list. This file is intended for pull requests. Please look below for the json file.
+
+Check [providers.txt](providers.txt).
+Please create a pull request to update the list.
+
 ## JSON file
 Check [provider-domains.json](provider-domains.json).
 
 This list is useful if you want to check whether your user's email address is a personal email address or not.
 Companies usually use their own domain for their employees' communication.
 
-Please create a pull request to update the list.
+Please create a request for "providers.txt", this list will then automatically be updated.
 
 
 ## Rest API
