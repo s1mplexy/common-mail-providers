@@ -1,6 +1,11 @@
 # List of Freemail Providers
 
-This repository provides a list of common email providers in csv format.
+This repository provides a list of common email providers in json format.
+
+Requirmnets to be on this list:
+- The domain is used by several people to receive and send e-mails
+- Anyone can register for the domain either for free or paid
+- It is **not** a throwaway email domain
 
 ## JSON file
 Check [provider-domains.json](provider-domains.json).
