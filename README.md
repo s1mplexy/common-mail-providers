@@ -1,6 +1,6 @@
 # List of Freemail Providers
 
-This repository provides a list of email providers in csv format.
+This repository provides a list of common email providers in csv format.
 
 ## CSV file
 Check [provider-domains.csv](provider-domains.csv).
