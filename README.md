@@ -5,8 +5,8 @@ This repository provides a list of common email providers in csv format.
 ## JSON file
 Check [provider-domains.json](provider-domains.json).
 
-This list is useful when you want check if your user's email address is a
-company mail address or not.
+This list is useful if you want to check whether your user's email address is a personal email address or not.
+Companies usually use their own domain for their employees' communication.
 
 Please create a pull request to update the list.
 
@@ -45,7 +45,10 @@ https://freemail-providers.s1mplexx.eu/api/<email or domain>
 Response
 
  - 200 - when email or domain is in the provider list
+ ``` {"domains":"gmail.com","status":"found"} ```
  - 404 - when email or domain is not in the provider list
+ ```{"domains":"google.com","status":"notinlist"}```
+ ```{"domains":"","status":"error-empty-request"}```
 
 
 Example request
